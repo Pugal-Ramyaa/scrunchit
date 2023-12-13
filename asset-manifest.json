@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/scrunchit/static/js/main.d6bcd6be.js",
+    "index.html": "/scrunchit/index.html",
+    "main.d6bcd6be.js.map": "/scrunchit/static/js/main.d6bcd6be.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6bcd6be.js"
+  ]
+}
