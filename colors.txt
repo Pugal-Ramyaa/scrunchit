@@ -1,0 +1,7 @@
+/* CSS HEX */
+--periwinkle-2: #D5C4FBff;
+--thistle: #EBD0FDff;
+--pale-purple: #F2E1FDff;
+--columbia-blue: #D1ECFDff;
+--alice-blue: #E8F0FDff;
+--white: #FFFFFFff;
